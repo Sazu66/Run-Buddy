@@ -41,6 +41,18 @@ header {
     font-size: 22px;
   }
 
+  .building-habits h2 {
+    font-size: 40px;
+    font-style: italic;
+    color: #fce138;
+    float:inline-end
+        
+  }
+
+  p {
+    color: white;
+}
+
   footer {
     background: #fce138;
     width: 100%;
