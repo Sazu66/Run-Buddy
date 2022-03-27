@@ -134,10 +134,10 @@ section {
 }
 
 .hero-form {
-  border: 3px solid var(--secondary-color)
+  border: 3px solid var(--secondary-color);
   background-color: rgb(252, 225, 56, 80%);
   padding: 20px;
-  color: var(--secondary-color)
+  color: var(--primary-color);
   width: 40%;
   margin: 3.5%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -147,9 +147,11 @@ section {
 .hero-form h3 {
   font-size: 24px;
   margin: 0;
+  color: var(--secondary-color);
 }
 .hero-form p {
   margin: 5px 0 15px 0;
+  color: var(--secondary-color);
 }
 
 .form-input {
@@ -171,6 +173,7 @@ section {
 
 .hero-form label {
   margin: 0 5px;
+  color: var(--secondary-color);
 }
 
 .hero-form button {
