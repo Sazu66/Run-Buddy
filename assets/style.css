@@ -351,6 +351,11 @@ section {
   color: #fce138;
 }
 
+.contact-into > * {
+  flex: 1;
+  margin: 15px;
+}
+
 
 /* REACH OUT STYLES END */
 
